@@ -1,4 +1,4 @@
-package com.imageview.circular.rajiv.circularimageview;
+package com.imageview.circular.rajiv.circularimageviewrajiv;
 
 import android.animation.ObjectAnimator;
 import android.annotation.SuppressLint;
